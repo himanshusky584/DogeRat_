@@ -73,8 +73,8 @@
 ```bash  
   pkg update && upgrade -y
   pkg install git -y
-  git clone https://github.com/shivaya-dav/DogeRat 
-  cd DogeRat
+  git clone https://github.com/himanshusky584/DogeRat_
+  cd DogeRat_
   bash start.sh
 Enter your bot token 
 Enter your chatid 

